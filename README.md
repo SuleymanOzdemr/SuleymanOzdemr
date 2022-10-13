@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SuleymanOzdemr
+- 👋 Hi, I’m Suleyman
 - 👀 I’m interested in .Net and MsSql
 - 🌱 I’m currently learning .Net technologies
 - 📫 How to reach me 
