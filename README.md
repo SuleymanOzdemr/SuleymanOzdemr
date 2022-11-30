@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Suleyman
-- 👀 I’m interested in .Net and MsSql
+- 👀 I’m interested in .Net,MsSql,Xamarin
 - 🌱 I’m currently learning .Net technologies
 - 📫 How to reach me 
    Linkedln : https://l24.im/UgF8
